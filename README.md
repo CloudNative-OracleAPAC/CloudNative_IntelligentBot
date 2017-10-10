@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Intelligent Bot Hands OnHUB ##
+## Intelligent Bot Hands On##
 
 ### Introduction ###
 TBD  
