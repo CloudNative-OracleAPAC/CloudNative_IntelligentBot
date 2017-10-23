@@ -7,7 +7,7 @@ TBD
 
 ### About the Exercise Today ###
 
-TBD
+NOTE: While this HOL is intended to be used against the cloud service, if you are using the stand-alone VirtualBox image please refer to the appendix for instructions on starting the local environment.
 
 
 ### Prerequisites ###
