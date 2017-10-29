@@ -21,7 +21,7 @@ In short, a chatbot is a computer program designed to simulate a conversation wi
 
 Today’s workshop revolves around the Digital Experience functionality of a fictitious Café chain called Café Supremo.
 
-<img src="img/Intro-2.png" width="100%"/>
+<img src="img/Intro-2.png" width="40%"/>
 
 While Café Supremo has a Mobile App, which is used by their most loyal customers, the marketing department is aware that new or prospective customers may not have downloaded the app (or even found it in the many hundreds of thousands of apps in the App-Stores).  As such, they are looking to expand their reach to prospective customers through the use of the various Social Chat Channels, in particular Facebook Messenger.
 
