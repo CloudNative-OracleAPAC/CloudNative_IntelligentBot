@@ -7,7 +7,9 @@ With each generation of users, there is a significant shift in how they communic
 
 <img src="img/Intro-1.png" width="100%"/>
 
-Thus, it is a conundrum of; if we can’t get a user to download your app, how do you reach out to them?  By using the app they already have installed – their Chat Client.
+Thus, it is a conundrum of; if we can’t get a user to download your app, how do you reach out to them?  
+
+By using the app they already have installed – their Chat Client.
 
 This introduces the idea of using a **Chatbot** to allow the end user to interact with your organisation, while removing the need for them to either proactively go to your website or download your app to do so.
 
