@@ -25,15 +25,15 @@ Also download the extension Pack from [http://download.virtualbox.org/virtualbox
 
 <img src="img/appendix-4.png" width="75%"/>
 
-<img src="img/appendix-4a.png" width="75%"/>
+<img src="img/appendix-4a.png" width="40%"/>
 
 <img src="img/appendix-5.png" width="75%"/>
 
-<img src="img/appendix-6.png" width="75%"/>
+<img src="img/appendix-6.png" width="40%"/>
 
 <img src="img/appendix-6a.png" width="75%"/>
 
-<img src="img/appendix-7.png" width="75%"/>
+<img src="img/appendix-7.png" width="40%"/>
 
 <img src="img/appendix-8.png" width="75%"/>
 
@@ -41,4 +41,4 @@ Also download the extension Pack from [http://download.virtualbox.org/virtualbox
 
 <img src="img/appendix-10.png" width="75%"/>
 
-<img src="img/appendix-11.png" width="75%"/>
+<img src="img/appendix-11.png" width="40%"/>
