@@ -46,9 +46,9 @@ Your Facebook ID is indicated in the URL of the page ``https://www.facebook.com/
 #### Lab 4: Custom Components [(Start Lab)](400-IB.md) ####
 
 ## Lab Files ##
-1. [Intents, Entities and Utterances for FoodMenu Bot](./Lab_Files/Intents_And_Entities.zip)
-2. [OBotML dialogue flow markup](./Lab_Files/Dialog-YAML.zip)
-3. [Custom Component Template](./Lab_Files/Custom-Component-Template.zip)
+1. [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents_And_Entities.zip)
+2. [OBotML dialogue flow markup](../Lab_Files/Dialog-YAML.zip)
+3. [Custom Component Template](../Lab_Files/Custom-Component-Template.zip)
 
 # Appendix #
 #### Configure Stand-Alone Oracle Intelligent Bots Platform [(Virtual Box Instructions)](appendix.md) ####
