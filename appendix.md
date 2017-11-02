@@ -31,14 +31,25 @@ Also download the extension Pack from [http://download.virtualbox.org/virtualbox
 
 <img src="img/appendix-6.png" width="40%"/>
 
-<img src="img/appendix-6a.png" width="75%"/>
+<img src="img/appendix-7.png" width="75%"/>
 
-<img src="img/appendix-7.png" width="40%"/>
-
-<img src="img/appendix-8.png" width="75%"/>
+<img src="img/appendix-8.png" width="40%"/>
 
 <img src="img/appendix-9.png" width="75%"/>
 
 <img src="img/appendix-10.png" width="75%"/>
 
 <img src="img/appendix-11.png" width="40%"/>
+
+<img src="img/appendix-12.png" width="40%"/>
+
+<img src="img/appendix-13.png" width="40%"/>
+
+<img src="img/appendix-14.png" width="40%"/>
+
+<img src="img/appendix-15.png" width="40%"/>
+
+<img src="img/appendix-16.png" width="40%"/>
+
+
+<< [Back to Intelligent Bot Test Drive Home](README.md)
