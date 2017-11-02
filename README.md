@@ -46,4 +46,5 @@ Your Facebook ID is indicated in the URL of the page ``https://www.facebook.com/
 #### Lab 4: Custom Components [(Start Lab)](400-IB.md) ####
 
 # Appendix #
+#### Configure Stand-Alone Oracle Intelligent Bots Platform [(Virtual Box Instructions)](appendix.md) ####
 
