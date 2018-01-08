@@ -1,0 +1,19 @@
+entity,value,synonyms
+Lunch,Chicken Sub,ChickenSub:Chicken Roll
+Lunch,Chicken Wrap,Wrap:ChickenWrap
+Lunch,Meat Pie,Beef Pie:Country Pie:chunky beef
+Lunch,Salad,Green Salad:Caesar Salad:Garden Salad:something healthy:low carb
+Lunch,Sandwich,Pastrami:Turkey on Rye
+Snack,Cake,
+Snack,Banana Bread,banana-bread:bananaBread
+Snack,Muffin,
+Snack,Macaroon,Biscuit
+Snack,Bagel,Sesame Bagel
+MenuType,Lunch,brunch:midday meal:real food
+MenuType,Snack,bite to eat:some finger food:some munchies
+MenuType,All Food,full menu:what's available
+YesNo,Yes,YES:Yup:Affirmative
+YesNo,No,NO:Nup:Negative
+FoodTemp,Hot,heated:warmed
+FoodTemp,Cold,chilled
+FoodTemp,Normal,room temperature:standard
