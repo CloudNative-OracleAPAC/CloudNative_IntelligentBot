@@ -42,9 +42,9 @@ Your Facebook ID is indicated in the URL of the page ``https://www.facebook.com/
 
 #### Lab 1: Introduction to Cafe Supremo Intelligent Bot [(Start Lab)](100-IB.md) #### 
 #### Lab 2: Building a Bot [(Start Lab)](200-IB.md) ####
-#### Lab 3: Custom Components [(Start Lab)](400-IB.md) ####
-#### Lab 4: Instant Apps for Structured Data [(Start Lab)](500-IB.md) ####
-#### Lab 5: (OPTIONAL) Exposing the Bot in Facebook [(Start Lab)](300-IB.md) ####
+#### Lab 3: Custom Components [(Start Lab)](300-IB.md) ####
+#### Lab 4: Instant Apps for Structured Data [(Start Lab)](400-IB.md) ####
+#### Lab 5: (OPTIONAL) Exposing the Bot in Facebook [(Start Lab)](500-IB.md) ####
 
 ## Lab Files ##
 1. [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
