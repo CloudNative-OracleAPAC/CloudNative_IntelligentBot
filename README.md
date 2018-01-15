@@ -35,7 +35,7 @@ As the Facebook app (and hence the bot) is not “Public”, to access the Bot y
 
 To find your Facebook ID (as opposed to your Login Name), login to your Facebook account and click on your Avatar | name in the page header - this will take you to your profile page.
 
-Your Facebook ID is indicated in the URL of the page ``https://www.facebook.com/{your facebook ID}``
+Your Facebook ID is indicated in the URL of the page ``https://www.facebook.com/[your facebook ID]``
 
 
 # Lab Exercise: #
