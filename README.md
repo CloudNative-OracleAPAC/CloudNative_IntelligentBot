@@ -27,17 +27,6 @@ While Café Supremo has a Mobile App, which is used by their most loyal customer
 
 This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality. 
 
-### Prerequisites ###
-
-Each attendee will require a Facebook Account for accessing the CafeSupremo Bot via the Facebook Messenger app.
-
-As the Facebook app (and hence the bot) is not “Public”, to access the Bot you will need to have your Facebook ID registered with the Facebook App itself (as a “tester” of the app/page).  As such, you will need to make sure that your facilitator has this information prior to starting the Lab exercises. 
-
-To find your Facebook ID (as opposed to your Login Name), login to your Facebook account and click on your Avatar | name in the page header - this will take you to your profile page.
-
-Your Facebook ID is indicated in the URL of the page ``https://www.facebook.com/[your facebook ID]``
-
-
 # Lab Exercise: #
 
 #### Lab 1: Introduction to Cafe Supremo Intelligent Bot [(Start Lab)](100-IB.md) #### 
