@@ -25,7 +25,16 @@ Today’s workshop revolves around the Digital Experience functionality of a fic
 
 While Café Supremo has a Mobile App, which is used by their most loyal customers, the marketing department is aware that new or prospective customers may not have downloaded the app (or even found it in the many hundreds of thousands of apps in the App-Stores).  As such, they are looking to expand their reach to prospective customers through the use of the various Social Chat Channels, in particular Facebook Messenger.
 
-This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality. 
+This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality.
+
+# Pre-Requisite #
+This Cloud Test Drive Workshop is designed to work with your own Autonomous Mobile Cloud Subscription. If you have Activated your account, but have not yet provisioned your Digital Assistant / Chatbot environment, please follow the simple steps listed Below, based on which product you entend provisioning.  
+
+**NOTE:** It is recommended to provision the combination of the [Autonomous Digital Assistant](ADA.md) & [Autonomous Mobile Cloud](AM.md) services. If you are looking to implement a fixed per Hour Interaction rate please refer to the [Autonomous Mobile Cloud Enterprise](AMCE.md) steps.    
+
+#### the Autonomous Digital Assistant       [(Provisioning Instructions)](ADA.md) ####
+#### the Autonomous Mobile Cloud            [(Provisioning Instructions)](AM.md) ####
+#### the Autonomous Mobile Cloud Enterprise [(Provisioning Instructions)](AMCE.md) ####
 
 # Lab Exercise: #
 
@@ -40,6 +49,5 @@ This workshop will walk you introduce you to the CafeSupremo Bot, and then walk 
 2. [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
 3. [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
 
-# Appendix #
-#### Configure Stand-Alone Oracle Intelligent Bots Platform [(Virtual Box Instructions)](appendix.md) ####
+
 
