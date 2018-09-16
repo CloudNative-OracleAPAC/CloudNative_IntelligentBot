@@ -24,7 +24,9 @@ Once your account is activated simply follow the steps below to provision the Au
 
 <img src="Images/Provision_AMCE_3.png" width="75%"/>
 
-<img src="Images/Provision_AMCE_4.png" width="75%"/>
+<img src="Images/Provision_AMCE_4a.png" width="75%"/>
+
+<img src="Images/Provision_AMCE_4b.png" width="75%"/>
 
 <img src="Images/Provision_AMCE_5.png" width="75%"/>
 
