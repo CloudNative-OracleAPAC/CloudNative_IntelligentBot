@@ -1,43 +1,46 @@
-# ORACLE Cloud Test Drive #
+# Oracle Cloud Test Drive #
 
-## Appendix ##
-If the hosted Oracle Intelligent bot is not available for the Workshop (or if customers wish to start developing their bots prior to their instance being available), the Oracle Intelligent Bot Platform has been made available as a small Virtual Machine image for development use.
+## Provisioning the Oracle Digital Assistant (ODA) ##
 
-If you wish to use the desktop image for the TestDrive 2.0 workshop, please approach your facilitator to obtain the VirtualApplicance OVA file (Open Virtual Appliance)
+The Oracle Digital Assistant (aka ODA) is a stand-alone service for the Inteligent Chatbot platform.  It supports the development of AL/Machine Learning based Chatbots with sophisticated non-linear dialogue flows.
 
-### Steps ###
+**Note** As a stand-alone service the ODA it does not include the Automous Mobile Backend into which custom components may be executed.  As such please also provision the [Autonomous Mobile](AM.md) Service.
 
-<img src="img/Provisioning/Provision_1.png" width="75%"/>
+If you are looking to implement a non-metered Service with a static requests/Hour metric please use the steps for the [Autonomoous Mobile Cloud Enterprice](AMCE.md)
 
-<img src="img/Provisioning/Provision_2.png" width="75%"/>
+Once your account is activated simply follow the steps below to provision the Digital Assistant.
 
-<img src="img/Provisioning/Provision_3.png" width="75%"/>
+### Provisioning Steps ###
 
-<img src="img/Provisioning/Provision_4.png" width="75%"/>
+<img src="images/Provision_1.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_4.png" width="75%"/>
+<img src="images/Provision_2.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_1.png" width="75%"/>
+<img src="images/Provision_3.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_2.png" width="75%"/>
+<img src="images/Provision_4.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_3.png" width="75%"/>
+<img src="images/Provision_ADA_1.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_4.png" width="75%"/>
+<img src="images/Provision_ADA_2.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_5.png" width="75%"/>
+<img src="images/Provision_ADA_3.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_6.png" width="75%"/>
+<img src="images/Provision_ADA_4.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_7.png" width="75%"/>
+<img src="images/Provision_ADA_5.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_8.png" width="75%"/>
+<img src="images/Provision_ADA_6.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_9.png" width="75%"/>
+<img src="images/Provision_ADA_7.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_10.png" width="75%"/>
+<img src="images/Provision_ADA_8.png" width="75%"/>
 
-<img src="img/Provisioning/Provision_ADA_11.png" width="75%"/>
+<img src="images/Provision_ADA_9.png" width="75%"/>
+
+<img src="images/Provision_ADA_10.png" width="75%"/>
+
+<img src="images/Provision_ADA_11.png" width="75%"/>
 
 
-<< [Back to Autonomous Digital Assistant Test Drive Home](README.md)
+<< [Back to Autonomous Digital Assistant Test Drive Home](../README.md)

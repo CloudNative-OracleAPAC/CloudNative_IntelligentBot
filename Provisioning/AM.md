@@ -1,55 +1,42 @@
-# ORACLE Cloud Test Drive #
+# Oracle Cloud Test Drive #
 
-## Appendix ##
-If the hosted Oracle Intelligent bot is not available for the Workshop (or if customers wish to start developing their bots prior to their instance being available), the Oracle Intelligent Bot Platform has been made available as a small Virtual Machine image for development use.
+## Provisioning the Oracle Autonomous Mobile Cloud (AMC) ##
 
-If you wish to use the desktop image for the TestDrive 2.0 workshop, please approach your facilitator to obtain the VirtualApplicance OVA file (Open Virtual Appliance)
+The Oracle Autonomous Mobile Cloud (aka AMC) is the stand-alone service for the MBaaS component of Oracle's Mobile Platform.  It supports the building sophiticated Mobile Applications that utilise Mobile Platform APIs to surface such functionality as Push Notifications, Location Services, Object Storage, User Management etc as well as the development of Mobile optimised Custom APIs to access data from the Systems of Record.  When used in conjunction with the Oracle Digital Assistant, it allows for the use of "Custom Component" within the Dialogue Flow; allowing the Digital Assistant (Bot) to respond to questions and intents with live data from your back end systems. 
 
-### Steps ###
+**Note** As a stand-alone service the Autonomous Mobile Cloud does not include the Digital Assistant for the development of the Dialogues and Specification of the NLP (Intents and Entities).  As such please also provision the [Oracle Digital Assistant](ADA.md) Service.
 
-If you do not currently have the **Oracle Virtual-Box** virtual machine runtime installed, please download & install the appropriate executable (for your operating system) from the following URL : [https://www.virtualbox.org/wiki/Downloads]
+If you are looking to implement a non-metered Service with a static requests/Hour metric please use the steps for the [Autonomoous Mobile Cloud Enterprice](AMCE.md)
 
-Also download the extension Pack from [http://download.virtualbox.org/virtualbox/5.2.0/Oracle_VM_VirtualBox_Extension_Pack-5.2.0-118431.vbox-extpack]
+Once your account is activated simply follow the steps below to provision the Autonomous Mobile Cloud.
 
-(This gives additional virtual support for USB 2.0 etc.)
+### Provisioning Steps ###
 
-1. Start Virtual Box runtime environment.
+<img src="images/Provision_1.png" width="75%"/>
 
-<img src="img/appendix-1.png" width="75%"/>
+<img src="images/Provision_2.png" width="75%"/>
 
-2. Import the Appliance as shown
+<img src="images/Provision_3.png" width="75%"/>
 
-<img src="img/appendix-2.png" width="40%"/>
+<img src="images/Provision_4.png" width="75%"/>
 
-<img src="img/appendix-3.png" width="75%"/>
+<img src="images/Provision_AM_1.png" width="75%"/>
 
-<img src="img/appendix-4.png" width="75%"/>
+<img src="images/Provision_AM_2.png" width="75%"/>
 
-<img src="img/appendix-4a.png" width="40%"/>
+<img src="images/Provision_AM_3.png" width="75%"/>
 
-<img src="img/appendix-5.png" width="75%"/>
+<img src="images/Provision_AM_4.png" width="75%"/>
 
-<img src="img/appendix-6.png" width="40%"/>
+<img src="images/Provision_AM_5.png" width="75%"/>
 
-<img src="img/appendix-7.png" width="75%"/>
+<img src="images/Provision_AM_6.png" width="75%"/>
 
-<img src="img/appendix-8.png" width="40%"/>
+<img src="images/Provision_AM_7.png" width="75%"/>
 
-<img src="img/appendix-9.png" width="75%"/>
+<img src="images/Provision_AM_8.png" width="75%"/>
 
-<img src="img/appendix-10.png" width="75%"/>
-
-<img src="img/appendix-11.png" width="40%"/>
-
-<img src="img/appendix-12.png" width="40%"/>
-
-<img src="img/appendix-13.png" width="40%"/>
-
-<img src="img/appendix-14.png" width="40%"/>
-
-<img src="img/appendix-15.png" width="40%"/>
-
-<img src="img/appendix-16.png" width="40%"/>
+<img src="images/Provision_AM_9.png" width="75%"/>
 
 
-<< [Back to Intelligent Bot Test Drive Home](README.md)
+<< [Back to Autonomous Digital Assistant Test Drive Home](../README.md)
