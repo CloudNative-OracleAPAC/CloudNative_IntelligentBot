@@ -12,35 +12,35 @@ Once your account is activated simply follow the steps below to provision the Di
 
 ### Provisioning Steps ###
 
-<img src="images/Provision_1.png" width="75%"/>
+<img src="Images/Provision_1.png" width="75%"/>
 
-<img src="images/Provision_2.png" width="75%"/>
+<img src="Images/Provision_2.png" width="75%"/>
 
-<img src="images/Provision_3.png" width="75%"/>
+<img src="Images/Provision_3.png" width="75%"/>
 
-<img src="images/Provision_4.png" width="75%"/>
+<img src="Images/Provision_4.png" width="75%"/>
 
-<img src="images/Provision_ADA_1.png" width="75%"/>
+<img src="Images/Provision_ADA_1.png" width="75%"/>
 
-<img src="images/Provision_ADA_2.png" width="75%"/>
+<img src="Images/Provision_ADA_2.png" width="75%"/>
 
-<img src="images/Provision_ADA_3.png" width="75%"/>
+<img src="Images/Provision_ADA_3.png" width="75%"/>
 
-<img src="images/Provision_ADA_4.png" width="75%"/>
+<img src="Images/Provision_ADA_4.png" width="75%"/>
 
-<img src="images/Provision_ADA_5.png" width="75%"/>
+<img src="Images/Provision_ADA_5.png" width="75%"/>
 
-<img src="images/Provision_ADA_6.png" width="75%"/>
+<img src="Images/Provision_ADA_6.png" width="75%"/>
 
-<img src="images/Provision_ADA_7.png" width="75%"/>
+<img src="Images/Provision_ADA_7.png" width="75%"/>
 
-<img src="images/Provision_ADA_8.png" width="75%"/>
+<img src="Images/Provision_ADA_8.png" width="75%"/>
 
-<img src="images/Provision_ADA_9.png" width="75%"/>
+<img src="Images/Provision_ADA_9.png" width="75%"/>
 
-<img src="images/Provision_ADA_10.png" width="75%"/>
+<img src="Images/Provision_ADA_10.png" width="75%"/>
 
-<img src="images/Provision_ADA_11.png" width="75%"/>
+<img src="Images/Provision_ADA_11.png" width="75%"/>
 
 
 << [Back to Autonomous Digital Assistant Test Drive Home](../README.md)

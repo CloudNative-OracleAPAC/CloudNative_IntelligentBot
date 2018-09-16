@@ -12,31 +12,31 @@ Once your account is activated simply follow the steps below to provision the Au
 
 ### Provisioning Steps ###
 
-<img src="images/Provision_1.png" width="75%"/>
+<img src="Images/Provision_1.png" width="75%"/>
 
-<img src="images/Provision_2.png" width="75%"/>
+<img src="Images/Provision_2.png" width="75%"/>
 
-<img src="images/Provision_3.png" width="75%"/>
+<img src="Images/Provision_3.png" width="75%"/>
 
-<img src="images/Provision_4.png" width="75%"/>
+<img src="Images/Provision_4.png" width="75%"/>
 
-<img src="images/Provision_AM_1.png" width="75%"/>
+<img src="Images/Provision_AM_1.png" width="75%"/>
 
-<img src="images/Provision_AM_2.png" width="75%"/>
+<img src="Images/Provision_AM_2.png" width="75%"/>
 
-<img src="images/Provision_AM_3.png" width="75%"/>
+<img src="Images/Provision_AM_3.png" width="75%"/>
 
-<img src="images/Provision_AM_4.png" width="75%"/>
+<img src="Images/Provision_AM_4.png" width="75%"/>
 
-<img src="images/Provision_AM_5.png" width="75%"/>
+<img src="Images/Provision_AM_5.png" width="75%"/>
 
-<img src="images/Provision_AM_6.png" width="75%"/>
+<img src="Images/Provision_AM_6.png" width="75%"/>
 
-<img src="images/Provision_AM_7.png" width="75%"/>
+<img src="Images/Provision_AM_7.png" width="75%"/>
 
-<img src="images/Provision_AM_8.png" width="75%"/>
+<img src="Images/Provision_AM_8.png" width="75%"/>
 
-<img src="images/Provision_AM_9.png" width="75%"/>
+<img src="Images/Provision_AM_9.png" width="75%"/>
 
 
 << [Back to Autonomous Digital Assistant Test Drive Home](../README.md)
