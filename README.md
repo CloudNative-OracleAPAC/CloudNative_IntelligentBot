@@ -28,13 +28,7 @@ While Café Supremo has a Mobile App, which is used by their most loyal customer
 This workshop will walk you introduce you to the CafeSupremo Bot, and then walk you through the various components used to build it and subsequently expand its available functionality.
 
 # Pre-Requisite #
-This Cloud Test Drive Workshop is designed to work with your own Autonomous Mobile Cloud Subscription. If you have Activated your account, but have not yet provisioned your Digital Assistant / Chatbot environment, please follow the simple steps listed Below, based on which product you entend provisioning.  
-
-**NOTE:** It is recommended to provision the combination of the [Autonomous Digital Assistant](ADA.md) & [Autonomous Mobile Cloud](AM.md) services. If you are looking to implement a fixed per Hour Interaction rate please refer to the [Autonomous Mobile Cloud Enterprise](AMCE.md) steps.    
-
-#### the Autonomous Digital Assistant       [(Provisioning Instructions)](ADA.md) ####
-#### the Autonomous Mobile Cloud            [(Provisioning Instructions)](AM.md) ####
-#### the Autonomous Mobile Cloud Enterprise [(Provisioning Instructions)](AMCE.md) ####
+This Cloud Test Drive Workshop is designed to work with your own Autonomous Cloud Subscription. If you have Activated your account, but have not yet provisioned your Digital Assistant / Chatbot environment, please review the [Provisioning Steps](Provisioning/Provisioning.md). 
 
 # Lab Exercise: #
 
