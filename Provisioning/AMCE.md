@@ -10,9 +10,9 @@ Once your account is activated simply follow the steps below to provision the Au
 
 ### Provisioning Steps ###
 
-<img src="Images/Provision_1.png" width="75%"/>
+<img src="Images/Provision_1.png" width="100%"/>
 
-<img src="Images/Provision_2.png" width="75%"/>
+<img src="Images/Provision_2.png" width="100%"/>
 
 <img src="Images/Provision_3.png" width="75%"/>
 
@@ -22,19 +22,19 @@ Once your account is activated simply follow the steps below to provision the Au
 
 <img src="Images/Provision_AMCE_2.png" width="75%"/>
 
-<img src="Images/Provision_AMCE_3.png" width="75%"/>
+<img src="Images/Provision_AMCE_3.png" width="100%"/>
 
-<img src="Images/Provision_AMCE_4a.png" width="75%"/>
+<img src="Images/Provision_AMCE_4a.png" width="100%"/>
 
-<img src="Images/Provision_AMCE_4b.png" width="75%"/>
+<img src="Images/Provision_AMCE_4b.png" width="100%"/>
 
 <img src="Images/Provision_AMCE_5.png" width="75%"/>
 
 <img src="Images/Provision_AMCE_6.png" width="75%"/>
 
-<img src="Images/Provision_AMCE_7.png" width="75%"/>
+<img src="Images/Provision_AMCE_7.png" width="100%"/>
 
-<img src="Images/Provision_AMCE_8.png" width="75%"/>
+<img src="Images/Provision_AMCE_8.png" width="100%"/>
 
 
 << [Back to Autonomous Digital Assistant Test Drive Home](../README.md)
