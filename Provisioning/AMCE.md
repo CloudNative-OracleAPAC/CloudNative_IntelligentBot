@@ -1,55 +1,38 @@
-# ORACLE Cloud Test Drive #
+# Oracle Cloud Test Drive #
 
-## Appendix ##
-If the hosted Oracle Intelligent bot is not available for the Workshop (or if customers wish to start developing their bots prior to their instance being available), the Oracle Intelligent Bot Platform has been made available as a small Virtual Machine image for development use.
+## Provisioning the Oracle Autonomous Mobile Cloud Enterprise (AMCE) ##
 
-If you wish to use the desktop image for the TestDrive 2.0 workshop, please approach your facilitator to obtain the VirtualApplicance OVA file (Open Virtual Appliance)
+The Oracle Autonomous Mobile Cloud Enterprise(aka AMCE) is Oracle's Overall Mobile Platform Service for the development of both Chatbots and mobile applications.  It includes both the Intelligent Bot Service and the Mobile Backend As a Service.  The later supports the building sophiticated Mobile Applications that utilise Mobile Platform APIs to surface such functionality as Push Notifications, Location Services, Object Storage, User Management etc as well as the development of Mobile optimised Custom APIs to access data from the Systems of Record.  The Inteligent Bot Service allows for the declarative definitions of the Intents & Entities to be used for the NLU (natural Language Understanding) as well as the ability to define the Conferation Flow in Bot Markup Language (BotML). 
 
-### Steps ###
+**Note** The Autonomous Mobile Cloud Enterprise is being superceeded by the combination [Oracle Digital Assistant](ADA.md) and [Autonomous Mobile Cloud](AM.md).  Unless you are looking to implement a non-metered Service implementation (with a static requests/Hour metric) or the ODA is not currently available in your datacentre of choice, it is recommended that you provision the [Oracle Digital Assistant](ADA.md) and [Autonomous Mobile Cloud](AM.md) in preference to AMCE.
 
-If you do not currently have the **Oracle Virtual-Box** virtual machine runtime installed, please download & install the appropriate executable (for your operating system) from the following URL : [https://www.virtualbox.org/wiki/Downloads]
+Once your account is activated simply follow the steps below to provision the Autonomous Mobile Cloud Enterprise.
 
-Also download the extension Pack from [http://download.virtualbox.org/virtualbox/5.2.0/Oracle_VM_VirtualBox_Extension_Pack-5.2.0-118431.vbox-extpack]
+### Provisioning Steps ###
 
-(This gives additional virtual support for USB 2.0 etc.)
+<img src="Images/Provision_1.png" width="75%"/>
 
-1. Start Virtual Box runtime environment.
+<img src="Images/Provision_2.png" width="75%"/>
 
-<img src="img/appendix-1.png" width="75%"/>
+<img src="Images/Provision_3.png" width="75%"/>
 
-2. Import the Appliance as shown
+<img src="Images/Provision_4.png" width="75%"/>
 
-<img src="img/appendix-2.png" width="40%"/>
+<img src="Images/Provision_AMCE_1.png" width="75%"/>
 
-<img src="img/appendix-3.png" width="75%"/>
+<img src="Images/Provision_AMCE_2.png" width="75%"/>
 
-<img src="img/appendix-4.png" width="75%"/>
+<img src="Images/Provision_AMCE_3.png" width="75%"/>
 
-<img src="img/appendix-4a.png" width="40%"/>
+<img src="Images/Provision_AMCE_4.png" width="75%"/>
 
-<img src="img/appendix-5.png" width="75%"/>
+<img src="Images/Provision_AMCE_5.png" width="75%"/>
 
-<img src="img/appendix-6.png" width="40%"/>
+<img src="Images/Provision_AMCE_6.png" width="75%"/>
 
-<img src="img/appendix-7.png" width="75%"/>
+<img src="Images/Provision_AMCE_7.png" width="75%"/>
 
-<img src="img/appendix-8.png" width="40%"/>
-
-<img src="img/appendix-9.png" width="75%"/>
-
-<img src="img/appendix-10.png" width="75%"/>
-
-<img src="img/appendix-11.png" width="40%"/>
-
-<img src="img/appendix-12.png" width="40%"/>
-
-<img src="img/appendix-13.png" width="40%"/>
-
-<img src="img/appendix-14.png" width="40%"/>
-
-<img src="img/appendix-15.png" width="40%"/>
-
-<img src="img/appendix-16.png" width="40%"/>
+<img src="Images/Provision_AMCE_8.png" width="75%"/>
 
 
-<< [Back to Intelligent Bot Test Drive Home](README.md)
+<< [Back to Autonomous Digital Assistant Test Drive Home](../README.md)

@@ -2,7 +2,7 @@
 
 ## Provisioning the Oracle Digital Assistant (ODA) ##
 
-The Oracle Digital Assistant (aka ODA) is a stand-alone service for the Inteligent Chatbot platform.  It supports the development of AL/Machine Learning based Chatbots with sophisticated non-linear dialogue flows.
+The Oracle Digital Assistant (aka ODA) is a stand-alone service for the development of AL/Machine Learning based Chatbots that utilse sophisticated Natural language Understanding algorythms and non-linear dialogue flows to create a more natural, human-like conversational interface.
 
 **Note** As a stand-alone service the ODA it does not include the Automous Mobile Backend into which custom components may be executed.  As such please also provision the [Autonomous Mobile](AM.md) Service.
 
