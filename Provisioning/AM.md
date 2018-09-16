@@ -12,9 +12,9 @@ Once your account is activated simply follow the steps below to provision the Au
 
 ### Provisioning Steps ###
 
-<img src="images/Provision_1.png" width="75%"/>
+<img src="./images/Provision_1.png" width="75%"/>
 
-<img src="images/Provision_2.png" width="75%"/>
+<img src="./images/Provision_2.png" width="75%"/>
 
 <img src="images/Provision_3.png" width="75%"/>
 
