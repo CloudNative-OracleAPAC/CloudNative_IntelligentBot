@@ -2,11 +2,11 @@
 
 ## Provisioning the Oracle Digital Assistant (ODA) ##
 
-The Oracle Digital Assistant (aka ODA) is a stand-alone service for the development of AL/Machine Learning based Chatbots that utilse sophisticated Natural language Understanding algorythms and non-linear dialogue flows to create a more natural, human-like conversational interface.
+The Oracle Digital Assistant (aka ODA) is a stand-alone service for the development of AL/ML based Chatbots, that utilse sophisticated Natural Language Understanding (NLU) algorythms and non-linear dialogue flows to create a more natural, human-like conversational interface.
 
-**Note** As a stand-alone service the ODA it does not include the Automous Mobile Backend into which custom components may be executed.  As such please also provision the [Autonomous Mobile](AM.md) Service.
+**Note** As a stand-alone service, the ODA does not include the Mobile Backend as a Service functionality; into which custom components that access backend data, may be executed.  As such, in order to execute the data driven custom components, please also provision the [Autonomous Mobile](AM.md) Service prior to the Cloud Test Drive Workshop.
 
-If you are looking to implement a non-metered Service with a static requests/Hour metric please use the steps for the [Autonomous Mobile Cloud Enterprice](AMCE.md)
+If you are looking to implement the CTD on a non-metered Service with a static requests/Hour metric (ie on AMCe) please use the steps for the [Autonomous Mobile Cloud Enterprice](AMCE.md)
 
 Once your account is activated simply follow the steps below to provision the Digital Assistant.
 
