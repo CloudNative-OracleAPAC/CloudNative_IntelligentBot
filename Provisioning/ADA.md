@@ -14,7 +14,7 @@ Once your account is activated simply follow the steps below to provision the Di
 
 1) Open your "My Services Dashbord" at the URL given to you as part of Account Creation
 
-https://myservices-<your account name>.console.oraclecloud.com/mycloud/cloudportal/dashboard
+`https://myservices-<your account name>.console.oraclecloud.com/mycloud/cloudportal/dashboard`
 
 <img src="Images/Provision_1.png" width="75%"/>
 
