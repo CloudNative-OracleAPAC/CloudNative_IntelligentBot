@@ -4,7 +4,7 @@
 
 The Oracle Digital Assistant (aka ODA) is a stand-alone service for the development of AL/ML based Chatbots, that utilse sophisticated Natural Language Understanding (NLU) algorythms and non-linear dialogue flows to create a more natural, human-like conversational interface.
 
-**Note** As a stand-alone service, the ODA does not include the Mobile Backend as a Service functionality; into which custom components that access backend data, may be executed.  As such, in order to execute the data driven custom components, please also provision the [Autonomous Mobile](AM.md) Service prior to the Cloud Test Drive Workshop.
+**Note** As a stand-alone service, the ODA does not include the Mobile Backend as a Service functionality; into which custom components that access backend data, may be executed.  As such, in order to execute the data driven custom components, please also provision the [Oracle Mobile Cloud](AM.md) Service prior to the Cloud Test Drive Workshop.
 
 If you are looking to implement the CTD on a non-metered Service with a static requests/Hour metric (ie on AMCe) please use the steps for the [Autonomous Mobile Cloud Enterprice](AMCE.md)
 
@@ -47,7 +47,7 @@ Once your account is activated simply follow the steps below to provision the Di
 
 * Choose the appropriate Data Centre in which you whihc to have the instance deployed (eg. us-ashburn-1)
 
-Click **[Next]**
+Click **[Next >]**
 
 <img src="Images/Provision_ADA_3.png" width="75%"/>
 
@@ -66,7 +66,7 @@ Expanding the "Instance Create And Delete History" accordian will show current a
 
 <img src="Images/Provision_ADA_6.png" width="75%"/>
 
-9) After approximately 1Hr the Registered Email account will receive and email indicating that the specified Autonomous Digital Assistant Service is now available.
+9) After approximately 1Hr the Registered Email account will receive an email notification  indicating that the specified Oracle Digital Assistant Service is now available.
 
 <img src="Images/Provision_ADA_7.png" width="75%"/>
 
@@ -78,7 +78,7 @@ Expanding the "Instance Create And Delete History" accordian will show current a
 
 <img src="Images/Provision_ADA_9.png" width="75%"/>
 
-Select the **[Digital Assistant Designer UI]** option from the drop-down menu to open the **Autonomous Digital Assistant** builder home page
+Select the **[Digital Assistant Designer UI]** option from the drop-down menu to open the **Oracle Digital Assistant** builder home page
 
 <img src="Images/Provision_ADA_10.png" width="75%"/>
 
@@ -86,7 +86,7 @@ Select the **[Digital Assistant Designer UI]** option from the drop-down menu to
  
 <img src="Images/Provision_ADA_11.png" width="75%"/>
 
-The Autonomous Digital Assistant is now fully provisioned.  If you have not yet provisioned the [Autonomous Mobile Cloud](AMC.md) please do so now.
+The Oracle Digital Assistant is now fully provisioned.  If you have not yet provisioned the [Oracle Mobile Cloud](AM.md) please do so now.
 
 
-<< [Back to Autonomous Digital Assistant Test Drive Home](../README.md)
+<< [Back to Oracle Digital Assistant Test Drive Home](../README.md)
