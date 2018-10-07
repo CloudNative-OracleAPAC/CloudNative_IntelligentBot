@@ -45,7 +45,7 @@ Once your account is activated simply follow the steps below to provision the Di
 
 * Confirm the Email to which notifications concerning this new instance should be sent.
 
-* Choose the appropriate Data Centre in which you whihc to have the instance deployed (eg. us-ashburn-1)
+* Choose the appropriate Data Centre in which you wish to have the instance deployed (eg. us-ashburn-1)
 
 Click **[Next >]**
 
