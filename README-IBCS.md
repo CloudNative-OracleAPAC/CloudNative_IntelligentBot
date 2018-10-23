@@ -36,13 +36,14 @@ This Cloud Test Drive Workshop is designed to work with your own Autonomous Clou
 #### Lab 2: Building a Bot [(Start Lab)](200-IB.md) ####
 #### Lab 3: Custom Components [(Start Lab)](300-IB.md) ####
 #### Lab 4: Instant Apps for Structured Data [(Start Lab)](400-IB.md) ####
-#### Lab 5: (OPTIONAL) Exposing the Bot in Facebook [(Start Lab)](500-IB.md) ####
+
+#### Lab 5: (OPTIONAL) Exposing the Digital Assistant with a Web Page [(Start Lab)](500-IB.md) ####
+#### Lab 6: (OPTIONAL) Exposing the Digital Assistant in Facebook [(Start Lab)](600-IB.md) ####
 
 ## Lab Files ##
-
-1. [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
-2. [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
-3. [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
+- [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
+- [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
+- [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
 
 
 
