@@ -32,7 +32,7 @@ This Cloud Test Drive Workshop is designed to work with your own Autonomous Clou
 
 # Lab Exercises: #
 
-#### 1: Introduction to Cafe Supremo Intelligent Bot [(Start)](100-IB.md) ####
+#### 1: Introduction to the Cafe Supremo Digital Assistant [(Start)](100-IB.md) ####
 #### 2: Building a Bot [(Start)](200-IB.md) ####
 #### 3: Custom Components [(Start)](300-IB.md) ####
 #### 4: Instant Apps for Structured Data [(Start)](400-IB.md) ####
