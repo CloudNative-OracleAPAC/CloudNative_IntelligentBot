@@ -45,6 +45,7 @@ This Cloud Test Drive Workshop is designed to work with your own Autonomous Clou
 - [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
 - [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
 - [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
+- [Web Application](Lab_Files/CTD3.0-CafeSupremo-Web.zip)
 
 
 
