@@ -5,7 +5,7 @@
 ### Introduction ###
 With each generation of users, there is a significant shift in how they communicate with each other and with organisations with whom they interact and do business. While much of the community may still rely on Telephone conversations and/or the use of Web or Mobile Apps to interact with an organisation, there is a significant portion of the community where their “on-line” experience is via a chat channel (such as talking to their friends over Skype or the like).    Hence while the mobile device has continued to be the “first-screen” they turn to, it is frequently a Chat app that they end up using. 
 
-<img src="img/Intro-1.png" width="100%"/>
+<img src="ODA/img/Intro-1.png" width="100%"/>
 
 Thus, it is a conundrum of; if we can’t get a user to download your app, how do you reach out to them?  
 
@@ -21,7 +21,7 @@ In short, a chatbot is a computer program designed to simulate a conversation wi
 
 Today’s workshop revolves around the Digital Experience functionality of a fictitious Café chain called Café Supremo.
 
-<img src="img/Intro-2.png" width="40%"/>
+<img src="ODA/img/Intro-2.png" width="40%"/>
 
 While Café Supremo has a Mobile App, which is used by their most loyal customers, the marketing department is aware that new or prospective customers may not have downloaded the app (or even found it in the many hundreds of thousands of apps in the App-Stores).  As such, they are looking to expand their reach to prospective customers through the use of the various Social Chat Channels, in particular Facebook Messenger.
 
