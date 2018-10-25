@@ -32,20 +32,20 @@ This Cloud Test Drive Workshop is designed to work with your own Autonomous Clou
 
 # Lab Exercises: #
 
-#### 1: Introduction to the Cafe Supremo Digital Assistant [(Start)](100-IB.md) ####
-#### 2: Building a Bot [(Start)](200-IB.md) ####
-#### 3: Custom Components [(Start)](300-IB.md) ####
-#### 4: Instant Apps for Structured Data [(Start)](400-IB.md) ####
+#### 1: Introduction to the Cafe Supremo Digital Assistant [(Start)](ODA/100-IB.md) ####
+#### 2: Building a Bot [(Start)](ODA/200-IB.md) ####
+#### 3: Custom Components [(Start)](ODA/300-IB.md) ####
+#### 4: Instant Apps for Structured Data [(Start)](ODA/400-IB.md) ####
 
 #### OPTIONAL Labs - Exposing the Digital Assistant within different User interfaces. ####
-- 5: Within a Web Page [(Start)](500-IB.md)
-- 6: Via Facebook Messenger [(Start)](600-IB.md)
+- 5: Within a Web Page [(Start)](ODA/500-IB.md)
+- 6: Via Facebook Messenger [(Start)](ODA/600-IB.md)
 
 ## Lab Files ##
-- [Intents, Entities and Utterances for FoodMenu Bot](Lab_Files/Intents-And-Entities.zip)
-- [OBotML dialogue flow markup for ordering Food](Lab_Files/DialogYAML.zip)
-- [Custom Component Template](Lab_Files/Custom-Component-Template.zip)
-- [Web Application](Lab_Files/CTD3.0-CafeSupremo-Web.zip)
+- [Intents, Entities and Utterances for FoodMenu Bot](ODA/Lab_Files/Intents-And-Entities.zip)
+- [OBotML dialogue flow markup for ordering Food](ODA/Lab_Files/DialogYAML.zip)
+- [Custom Component Template](ODA/Lab_Files/Custom-Component-Template.zip)
+- [Web Application](ODA/Lab_Files/CTD3.0-CafeSupremo-Web.zip)
 
 
 
